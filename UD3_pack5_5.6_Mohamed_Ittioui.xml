@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fitxes
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="fitxes.xsd">
+    
+    <fitxa>
+        <nom>Antonio Machado Ruiz</nom>
+        <inicials>AMR</inicials>
+        <edat>22</edat>
+    </fitxa>
+    <!--En el elemento "inicials" debe tener tres letras en mayúscula; solo tenía dos-->
+    <fitxa>
+        <nom>Mario Moreno</nom>
+        <inicials>MMR</inicials>
+        <edat>23</edat>
+    </fitxa>
+    <!--Hay un error en el orden de los elementos; primero va el elemento "nom" y después el elemento "inicials"-->
+    <fitxa>
+        <nom>Ada Lovelace</nom>
+        <inicials>ALO</inicials>
+        <edat>24</edat>
+    </fitxa>
+    <!--En esta ficha, tanto el elemento "nom" como el elemento "inicials" estaban en minúsculas.-->
+    <fitxa>
+        <nom>Pablo Ruiz Picasso</nom>
+        <inicials>PRP</inicials>
+        <edat>24</edat>
+    </fitxa>
+</fitxes>

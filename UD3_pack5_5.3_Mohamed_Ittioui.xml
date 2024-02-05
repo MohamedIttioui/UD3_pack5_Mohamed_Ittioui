@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fichas
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="fichas.xsd">
+
+    <ficha num="1">
+        <nom>Ana Rubia</nom>
+        <edad>22</edad>
+    </ficha>
+    <ficha num="2">
+        <nom>Iker Rubio</nom>
+        <edad>23</edad>
+    </ficha>
+</fichas>
